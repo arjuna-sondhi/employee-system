@@ -1,5 +1,5 @@
 ---
-service: serverless-react-boilerplate
+service: employee-system
 configValidationMode: off
 
 provider:
